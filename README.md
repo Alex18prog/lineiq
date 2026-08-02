@@ -13,6 +13,8 @@
 **[▶ Live demo](https://lineiq-oee.streamlit.app/)**
 *(free-tier hosting — may take a few seconds to wake up if it's been idle)*
 
+![LineIQ dashboard](screenshots/lineiq-dashboard-demo.gif)
+
 ## What this is
 
 OEE is the standard manufacturing metric for how much of a line's theoretical

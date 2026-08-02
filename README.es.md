@@ -13,6 +13,8 @@
 **[▶ Demo en vivo](https://lineiq-oee.streamlit.app/)**
 *(hosting de nivel gratuito — puede tardar unos segundos en despertar si lleva un rato inactivo)*
 
+![Dashboard de LineIQ](screenshots/lineiq-dashboard-demo.gif)
+
 ## Qué es esto
 
 El OEE es la métrica estándar de la industria manufacturera para medir cuánto de la capacidad teórica de una línea se convierte realmente en producto bueno: `Disponibilidad × Rendimiento × Calidad`. LineIQ genera un registro de producción sintético pero realista (3 líneas, 3 turnos/día, 30 días, con eventos de parada y tasas de defectos que varían deliberadamente según la línea) y lo convierte en un dashboard interactivo: OEE global, tendencia en el tiempo, comparativa entre líneas y turnos, y un desglose Pareto de *por qué* se está perdiendo tiempo — la clásica vista de las "seis grandes pérdidas" que se usa en plantas de producción reales.
