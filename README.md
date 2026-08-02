@@ -1,5 +1,7 @@
 # LineIQ
 
+🇬🇧 English · [🇪🇸 Español](README.es.md)
+
 **OEE (Overall Equipment Effectiveness) analytics for manufacturing lines — built with Python, pandas, and Streamlit.**
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
@@ -7,6 +9,9 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-FF4B4B?logo=streamlit&logoColor=white)
 ![pytest](https://img.shields.io/badge/tested%20with-pytest-0A9EDC?logo=pytest&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+**[▶ Live demo](https://lineiq-oee.streamlit.app/)**
+*(free-tier hosting — may take a few seconds to wake up if it's been idle)*
 
 ## What this is
 
@@ -79,7 +84,7 @@ python -m pytest tests/ -v
 
 ## Roadmap / possible extensions
 
-- [ ] Deploy to Streamlit Community Cloud and link the live demo here
+- [x] Deploy to Streamlit Community Cloud (linked above)
 - [ ] Let a user upload their own CSV instead of only using synthetic data
 - [ ] Add a simple forecast (e.g. rolling average or linear trend) for
       "where is OEE headed next week"
